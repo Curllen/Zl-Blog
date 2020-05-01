@@ -1,0 +1,62 @@
+.lwj-container {
+  width: 98%;
+  margin: 0 auto;
+}
+.link-white {
+  text-decoration: none;
+  color: #ffffff;
+}
+.link-black {
+  text-decoration: none;
+  color: #000000;
+}
+.link-black:hover {
+  color: #000000;
+}
+.mr-t {
+  margin-top: 10px;
+}
+.mr-tt {
+  margin-top: 20px;
+}
+.mr-l {
+  margin-left: 10px;
+}
+.mr-ll {
+  margin-left: 20px;
+}
+.mr-bl {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.mr-r {
+  margin-right: 10px;
+}
+.mr-rr {
+  margin-right: 15px;
+}
+.fl-r {
+  float: right;
+}
+.h1 {
+  font-size: 30px;
+  color: black;
+  font-weight: 600;
+}
+.h2 {
+  font-size: 25px;
+  color: black;
+  font-weight: 500;
+}
+.h3 {
+  font-size: 20px;
+  color: black;
+  font-weight: 400;
+}
+.h4 {
+  font-size: 13px;
+}
+.h5 {
+  font-size: 10px;
+}
+/*# sourceMappingURL=style.css.map */
